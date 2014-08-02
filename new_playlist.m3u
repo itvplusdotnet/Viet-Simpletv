@@ -1,4 +1,4 @@
-#EXTM3U $BorpasFileFormat="1
+#EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\21+.png",Phiên bản ko hỗ trợ, hãy cập nhật
 https://www.youtube.com/watch?v=CjlSa20yzAQ
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\21+.png",Phiên bản ko hỗ trợ, hãy cập nhật
