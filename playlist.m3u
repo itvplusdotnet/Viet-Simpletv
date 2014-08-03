@@ -350,7 +350,7 @@ rtmp://195.154.220.115:1935/private/sky42014
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=49 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
 http://www.fifaembed.com/embed/lfctv.php?width=650&height=480
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
