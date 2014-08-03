@@ -439,6 +439,16 @@ http://torrent-tv.ru/torrent-online.php?translation=9068
 http://torrent-tv.ru/torrent-online.php?translation=9079
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
 http://torrent-tv.ru/torrent-online.php?translation=9075
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 3
+http://go.arenavision.in/p/av3.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 4
+http://go.arenavision.in/p/av4.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 6
+http://go.arenavision.in/p/av6.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 8
+http://go.arenavision.in/p/av8.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 10
+http://go.arenavision.in/p/av10.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster33 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1
