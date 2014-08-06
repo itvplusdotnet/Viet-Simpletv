@@ -433,10 +433,6 @@ http://torrent-tv.ru/torrent-online.php?translation=1257
 http://torrent-tv.ru/torrent-online.php?translation=8966
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports 11
 http://torrent-tv.ru/torrent-online.php?translation=9068
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
-http://torrent-tv.ru/torrent-online.php?translation=9079
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
-http://torrent-tv.ru/torrent-online.php?translation=9075
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 3
 http://go.arenavision.in/p/av3.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 4
@@ -449,6 +445,10 @@ http://go.arenavision.in/p/av8.html
 http://go.arenavision.in/p/av10.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sports 12
 http://torrent-tv.ru/torrent-online.php?translation=9069
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat TV3 Sport 2.png" tvg-name="105",TV3 Sport 2
+http://torrent-tv.ru/torrent-online.php?translation=6918
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
+http://torrent-tv.ru/torrent-online.php?translation=6886
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm4.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1
