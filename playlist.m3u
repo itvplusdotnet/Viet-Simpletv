@@ -583,8 +583,6 @@ rtmp://62.213.85.137/en-stream/primetime
 http://www.giniko.com/watch.php?id=216
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
 http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
-#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="133",CCTV News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/cctv_828.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CNBC Europe.png" tvg-name="230",CNBC
 http://www.giniko.com/watch.php?id=69
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\France 24.png" tvg-name="230",France 24
