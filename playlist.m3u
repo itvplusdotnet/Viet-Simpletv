@@ -344,13 +344,13 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://195.154.220.115:1935/private/janu1
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://195.154.220.115:1935/private/janu2
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://195.154.220.115:1935/private/janu3
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://195.154.220.115:1935/private/janu4
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
@@ -370,13 +370,13 @@ http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.wezatv.com/dooball/star.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ESPN.png" tvg-name="90",ESPN
-rtmp://195.154.220.115:1935/private/espnuk
+rtmp://$OPT:rtmp-raw=rtmp://46.246.29.130:1935/stream/ playpath=46terg.stream swfUrl=http://04stream.com/p/boopo.swf live=1 pageUrl=http://negmtv.altervista.org/php/sportsplayer3.php?ch=ESPN
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://188.138.9.234:1955/live/mnocotvSport1.stream swfUrl=http://iptvmnogotv.eu/pro_tivix/player.swf pageUrl=http://www.moskvatv.com/rad/discovery-1.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
-rtmp://195.154.220.115:1935/private/janu6
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt1&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
-rtmp://195.154.220.115:1935/private/janu7
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.196:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 rtmp://195.154.220.115:1935/private/skyf12014
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
