@@ -379,6 +379,10 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.196:1935/live playpath=bt2 swfUrl=http://ww
 rtmp://195.154.220.115:1935/private/skyf12014
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
 http://www.giniko.com/watch.php?id=132
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 1
+rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig1 pageUrl=http://www.dcast.tv
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 2
+rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig2 pageUrl=http://www.dcast.tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
