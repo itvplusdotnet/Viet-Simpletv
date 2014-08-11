@@ -3,10 +3,6 @@
 http://torrent-tv.ru/torrent-online.php?translation=481
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Porn.png" tvg-name="203",But Go
 rtmp://lm01.everyon.tv/ptv//phd772
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Sexy.png" tvg-name="203",Candy
-http://torrent-tv.ru/torrent-online.php?translation=9094
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Man TV.png" tvg-name="203",Candy Man
-http://torrent-tv.ru/torrent-online.php?translation=9096
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
 rtmp://lm02.everyon.tv/ptv2//phd63
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\FrenchLover TV.png" tvg-name="203",French Love
