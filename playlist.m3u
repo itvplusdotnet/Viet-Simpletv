@@ -401,6 +401,8 @@ http://xemphimso.com/xem-tv/starsports.63.html
 http://xemphimso.com/xem-tv/vtc3.12.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="MyTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://xemphimso.com/xem-tv/vtv3.2.html
+#EXTINF:-1 $ExtFilter="Sports" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+1
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=5984
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
@@ -445,24 +447,24 @@ http://go.arenavision.in/p/av8.html
 http://go.arenavision.in/p/av10.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 http://torrent-tv.ru/torrent-online.php?translation=6886
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 1
-http://torrent-tv.ru/torrent-online.php?translation=9205
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=9137
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sport 5
 http://torrent-tv.ru/torrent-online.php?translation=9172
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports 2
 http://torrent-tv.ru/torrent-online.php?translation=9145
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 1
+http://torrent-tv.ru/torrent-online.php?translation=9205
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm4.stream
+#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
+rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster33 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 1
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm1.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 3
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm2.stream
-#EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
-rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=356
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
