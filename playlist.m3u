@@ -408,9 +408,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5984
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
 http://torrent-tv.ru/torrent-online.php?translation=5115
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2
-http://torrent-tv.ru/torrent-online.php?translation=5116
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
-http://torrent-tv.ru/torrent-online.php?translation=9079
+acestream://9d5e78380d16b27c69c332d64c8aa52a6e2c42a4
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://torrent-tv.ru/torrent-online.php?translation=4951
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
@@ -448,13 +446,13 @@ http://go.arenavision.in/p/av10.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 http://torrent-tv.ru/torrent-online.php?translation=6886
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
-http://torrent-tv.ru/torrent-online.php?translation=9137
+http://torrent-tv.ru/torrent-online.php?translation=9220
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sport 5
-http://torrent-tv.ru/torrent-online.php?translation=9172
+http://torrent-tv.ru/torrent-online.php?translation=9221
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports 2
 http://torrent-tv.ru/torrent-online.php?translation=9145
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 1
-http://torrent-tv.ru/torrent-online.php?translation=9205
+http://torrent-tv.ru/torrent-online.php?translation=9219
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm4.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
