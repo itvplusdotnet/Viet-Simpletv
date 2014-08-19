@@ -1494,4 +1494,30 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="257">
 <title lang="vi">Kênh tổng hợp đài truyền hình Hải Dương</title>
 </programme>
+<channel id="261">
+<display-name lang="vi">Fox Sports 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="261">
+<title lang="vi">Kênh thể thao Phần Lan</title>
+</programme>
+<channel id="258">
+<display-name lang="vi">SK 1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="258">
+<title lang="vi">Sport Klub 1 - Kênh thể thao Hungary</title>
+</programme>
+<channel id="259">
+<display-name lang="vi">SK 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="259">
+<title lang="vi">Sport Klub 2 - Kênh thể thao Hungary</title>
+</programme>
+<channel id="260">
+<display-name lang="vi">SK 3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="260">
+<title lang="vi">Sport Klub 3 - Kênh thể thao Hungary</title>
+</programme>
+
+
 </tv>
