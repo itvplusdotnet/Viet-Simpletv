@@ -1498,7 +1498,7 @@
 <display-name lang="vi">Fox Sports 2</display-name>
 </channel>
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="261">
-<title lang="vi">Kênh thể thao Phần Lan</title>
+<title lang="vi">Kênh thể thao Hà Lan Lan</title>
 </programme>
 <channel id="258">
 <display-name lang="vi">SK 1</display-name>
@@ -1518,6 +1518,10 @@
 <programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="260">
 <title lang="vi">Sport Klub 3 - Kênh thể thao Hungary</title>
 </programme>
-
-
+<channel id="262">
+<display-name lang="vi">MTV Sport 2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20140825000000 +0700" channel="262">
+<title lang="vi">Kênh thể thao Phần Lan</title>
+</programme>
 </tv>
