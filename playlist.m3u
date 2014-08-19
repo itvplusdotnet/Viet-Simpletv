@@ -338,13 +338,13 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=42 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=66 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=43 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=67 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=44 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=68 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=45 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=69 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
@@ -366,17 +366,19 @@ http://www.wezatv.com/dooball/star.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://188.138.9.234:1955/live/mnocotvSport1.stream swfUrl=http://iptvmnogotv.eu/pro_tivix/player.swf pageUrl=http://www.moskvatv.com/rad/discovery-1.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.194:1935/live playpath=bt1 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt1&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=77 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.196:1935/live playpath=bt2 swfUrl=http://www.flashtv.co/ePlayerr.swf pageUrl=http://www.flashtv.co/embed.php?live=bt2&vw=620&vh=490 token=%ZZri(nKa@#Z
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=72 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
-rtmp://195.154.220.115:1935/private/skyf12014
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.48:443/liverepeater playpath=73 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/player3.php?id=67&width=640&height=460 token=#atd%#$ZH
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
 http://www.giniko.com/watch.php?id=132
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 1
 rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig1 pageUrl=http://www.dcast.tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 2
 rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig2 pageUrl=http://www.dcast.tv
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport
+rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports1
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
@@ -408,7 +410,7 @@ http://torrent-tv.ru/torrent-online.php?translation=5984
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1
 http://torrent-tv.ru/torrent-online.php?translation=5115
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2
-acestream://9d5e78380d16b27c69c332d64c8aa52a6e2c42a4
+http://torrent-tv.ru/torrent-online.php?translation=5116
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Viasat Sport.png" tvg-name="192",Viasat Sport
 http://torrent-tv.ru/torrent-online.php?translation=4951
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="199",NTV+ Futbol
@@ -447,12 +449,26 @@ http://go.arenavision.in/p/av10.html
 http://torrent-tv.ru/torrent-online.php?translation=6886
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=9220
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SkySports.png" tvg-name="145",Sky Sport 5
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 5.png" tvg-name="145",Sky Sports 5
 http://torrent-tv.ru/torrent-online.php?translation=9221
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\FOX SPORTS.png" tvg-name="89",Fox Sports 2
 http://torrent-tv.ru/torrent-online.php?translation=9145
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 1
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="212",BT Sport 1
 http://torrent-tv.ru/torrent-online.php?translation=9219
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Fox Sports 2.png" tvg-name="261",Fox Sports 2
+http://torrent-tv.ru/torrent-online.php?translation=9218
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="258",SK 1
+http://torrent-tv.ru/torrent-online.php?translation=9222
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="259",SK 2
+http://torrent-tv.ru/torrent-online.php?translation=9223
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="260",SK 3
+http://torrent-tv.ru/torrent-online.php?translation=9224
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
+http://torrent-tv.ru/torrent-online.php?translation=9225
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
+http://torrent-tv.ru/torrent-online.php?translation=9079
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
+http://torrent-tv.ru/torrent-online.php?translation=9251
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm4.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
