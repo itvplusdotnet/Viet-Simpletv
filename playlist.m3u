@@ -369,10 +369,6 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.fla
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/skksnf1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
 http://www.giniko.com/watch.php?id=132
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 1
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig1 pageUrl=http://www.dcast.tv
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\CANAL+ SPORTS.png" tvg-name="69",Digi Sport 2
-rtmp://$OPT:rtmp-raw=rtmpe://89.248.172.52/live/dig2 pageUrl=http://www.dcast.tv
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport
 rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports1
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
