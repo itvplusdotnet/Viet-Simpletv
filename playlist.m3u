@@ -347,10 +347,6 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk3 pageUrl=http://www.flas
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk4 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
 rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MUTV.jpg" tvg-name="245",MUTV
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.193:1935/redirect playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\LFCTV.png" tvg-name="232",LFCTV
-http://www.fifaembed.com/embed/lfctv.php?width=650&height=480
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
 http://www.wezatv.com/dooball/assp1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 2
@@ -563,8 +559,6 @@ http://www.htvonline.com.vn/livetv/mtv-31346E61.html
 http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Deluxemusic.png" tvg-name="111",Deluxe Music
 http://www.giniko.com/watch.php?id=220
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="111",Muzik Turk
-http://www.giniko.com/watch.php?id=172
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 http://xemphimso.com/xem-tv/itv---vtc13.17.html
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
@@ -647,10 +641,6 @@ http://www.htvonline.com.vn/livetv/htv3-34396E61.html
 http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/hasbahca.m3u8
 #EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Tom and Jerry.png" tvg-name="142",Tom Jery
 rtmp://$OPT:rtmp-raw=rtmp://206.190.151.40/ctv/tom swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-#EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Cartoon club.png" tvg-name="119",Cartoon Club
-http://www.wezatv.com/dootv/channelcartoonclub.php
-#EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Gang Cartoon.png" tvg-name="119",Gangcartoon
-http://www.wezatv.com/dootv/channelgangcartoon.php
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\Logo\Cartoon Network.png" tvg-name="118",Cartoon Network
 http://xemphimso.com/xem-tv/cn.67.html
 #EXTINF:-1 $ExtFilter="Kids" group-title="MyTV" tvg-logo="..\Channel\logo\Disney.png" tvg-name="117",Disney Channel
