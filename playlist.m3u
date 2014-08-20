@@ -10,7 +10,7 @@ http://www.htvonline.com.vn/livetv/vtv4-3131396E61.html
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv5.png" tvg-name="5",VTV5
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv5
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\Logo\vtv9.png" tvg-name="7",VTV9
-http://www.htvonline.com.vn/livetv/vtv9-37346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtv9
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="9",VTV Cần Thơ 1
 rtmp://113.161.204.167/livepkgr/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="10",VTV Cần Thơ 2
@@ -20,7 +20,7 @@ rtmp://222.255.167.149/live/livestream
 #EXTINF:-1 group-title="VTV" tvg-logo="..\Channel\logo\VTV.png" tvg-name="12",VTV Phú Yên
 rtmp://113.161.4.102/live//vtvphuyen.tv
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\Yeah1 Special.png" tvg-name="29",VTVcab17
-http://www.htvonline.com.vn/livetv/yeah1-3133396E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=yeah1
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab14.png" tvg-name="26",VTVcab14
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&cat_id=18&id=372&Itemid=103
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
@@ -32,7 +32,7 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc1
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
 rtmp://m22.megafun.vn/hctv/vstv006?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC10.png" tvg-name="39",VTC10
-http://www.htvonline.com.vn/livetv/vtc10-3131386E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc10
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC14.png" tvg-name="43",VTC14
 rtmp://117.103.224.31/live//livestream?token=nothing&time=null
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\VTC16.png" tvg-name="44",VTC16
@@ -226,7 +226,7 @@ rtmp://202.43.109.147/live//btv1.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\btv2.png" tvg-name="156",BTV2
 rtmp://202.43.109.147/rtplive//btv2.stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BTV3.png" tvg-name="156",BTV3
-http://www.htvonline.com.vn/livetv/btv3-3130326E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=btv3
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\dong-nai-1.png" tvg-name="157",DongNaiTV 1
 rtmp://$OPT:rtmp-raw=rtmp://123.29.75.131:1935/thdn/ playpath=dn1.stream swfUrl=http://www.dnrtv.org.vn/static/js/flowplayer/flowplayer-3.2.7.swf live=1 pageUrl=http://www.dnrtv.org.vn/gioi-thieu/thong-bao
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\dong-nai-2.png" tvg-name="157",DongNaiTV 2
@@ -234,9 +234,9 @@ rtmp://$OPT:rtmp-raw=rtmp://123.29.75.131:1935/thdn/ playpath=dn2.stream swfUrl=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DRT.png" tvg-name="205",DRT1
 rtmp://222.255.167.159/live/livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LongAnTV.png" tvg-name="158",LongAnTV
-http://www.htvonline.com.vn/livetv/long-an-la34-35346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=la34
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CanThoTV.png" tvg-name="159",CanThoTV
-http://www.htvonline.com.vn/livetv/can-tho-thtpct-3130336E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thtpct
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KienGiangTV.png" tvg-name="161",KienGiangTV
 http://m20.megafun.vn/live.vs?c=vstv100&q=high&type=tv&token=Lw0DTwpcu17TpAEAnrrVhQ&time=1401760940&io=LKQm4UrSeh3uHo07|LFnbdedvtapqjl|44By7RuolMU|g7F/PxpsEkK61NWwqvBPl5kk9ju0FaRwPPMcndXm75Bf0tnJtKOTgAPStb2ablXD|vXouFTmMN17PZ05fxX9xXyeAJVugLkEt3XZ57wt8PY5MKZuK/5wpVtJHDb73i8=
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiPhongTV.png" tvg-name="162",HaiPhongTV
@@ -246,21 +246,21 @@ rtmp://123.30.84.242/live//tntv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HauGiangTV.png" tvg-name="167",HauGiangTV
 rtmp://115.78.160.29/live//thhg
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DONGTHAP.png" tvg-name="168",DongThapTV
-http://www.htvonline.com.vn/livetv/dong-thap--thdt-36306E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thdt
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\KhanhHoaTV.png" tvg-name="169",KhanhHoaTV
-http://www.htvonline.com.vn/livetv/khanh-hoa-ktv-3130346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=ktv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangNamTV.png" tvg-name="170",QuangNamTV
-http://www.htvonline.com.vn/livetv/quang-nam-qrt-3130356E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=qrt
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\SocTrangTV.png" tvg-name="171",SocTrangTV
-http://www.htvonline.com.vn/livetv/soc-trang-stv-35386E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=stv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TT-HueTV.png" tvg-name="172",TT-HueTV
-http://www.htvonline.com.vn/livetv/hue--trt-36346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=trt
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\QuangTriTV.png" tvg-name="173",QuangTriTV
 rtmp://123.25.117.9:80/live/qtv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\PhuThoTV.png" tvg-name="175",PhuThoTV
 rtmp://210.211.99.74/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LangSonTV.png" tvg-name="176",LangSonTV
-http://www.htvonline.com.vn/livetv/lang-son--lstv-38396E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=lstv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TuyenQuangTV.png" tvg-name="177",TuyenQuangTV
 rtmp://$OPT:rtmp-raw=rtmpt://210.245.89.40:1935/live/ playpath=livestream live=1 pageUrl=http://tuyenquangtv.vn/trang-chu/ swfUrl=http://tuyenquangtv.vn/js/jwplayer/jwplayer.swf
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TienGiangTV.png" tvg-name="178",TienGiangTV
@@ -272,23 +272,23 @@ rtmp://m35.megafun.vn:1935/hctv/vstv021?token=noting&time=null
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LamDongTV.png" tvg-name="180",LamDongTV
 rtmp://m22.megafun.vn/hctv/vstv022
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\VinhPhucTV.png" tvg-name="181",VinhPhucTV
-http://www.htvonline.com.vn/livetv/vinh-phuc-vp-37316E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vp
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\CaMauTV.png" tvg-name="207",CaMauTV
-http://www.htvonline.com.vn/livetv/ca-mau--ctv-36376E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=ctv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NamDinhTV.png" tvg-name="210",NamDinhTV
-http://www.htvonline.com.vn/livetv/nam-di%CC%A3nh-ntv-3130386E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=ntv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TraVinhTV.png" tvg-name="211",TraVinhTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/TH-TV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacGiangTV.png" tvg-name="234",BacGiangTV
-http://www.htvonline.com.vn/livetv/bac-giang--bgtv-36366E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bgtv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DacLacTV.png" tvg-name="204",DacLacTV
-http://www.htvonline.com.vn/livetv/dac-lac--drt-36386E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=drt
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhDinhTV.png" tvg-name="249",BinhDinhTV
 http://www.htvonline.com.vn/livetv/binh-dinh--btv-33356E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BenTreTV.png" tvg-name="252",BenTreTV
 rtmp://113.163.94.245/live//Stream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\DacNongTV.png" tvg-name="253",DacNongTV
-http://www.htvonline.com.vn/livetv/dac-nong--ptd-36396E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=ptd
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaGiangTV.png" tvg-name="251",HaGiangTV
 rtmp://$OPT:rtmp-raw=rtmp://livetv.manhlinh.net/live/ playpath=hagiang live=1 swfUrl=http://hagiangtv.vn/sites/all/modules/customer_banner/player/player.swf
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaTinhTV.png" tvg-name="250",HaTinhTV
@@ -302,7 +302,7 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/THHB
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacNinhTV.png" tvg-name="164",BacNinhTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/BTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HaiDuongTV.png" tvg-name="257",HaiDuongTV
-http://www.htvonline.com.vn/livetv/haiduong-3133316E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=haiduong
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\TayNinhTV.png" tvg-name="165",TayNinhTV
 http://www.htvonline.com.vn/livetv/tayninh-3134316E61.html
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\AnGiangTV.png" tvg-name="182",AnGiangTV
@@ -314,13 +314,13 @@ mms://123.30.108.114/BTVTruyenhinh
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BR-VungTauTV.png" tvg-name="185",BR-VungTauTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/BRT
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacLieuTV.png" tvg-name="186",BacLieuTV
-http://www.htvonline.com.vn/livetv/bac-lieu-3132316E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=btv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\ThanhHoaTV.png" tvg-name="187",ThanhHoaTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/ThanhHoaTV
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\LaoCaiTV.png" tvg-name="254",LaoCaiTV
-http://www.htvonline.com.vn/livetv/lao-cai--thlc-37306E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thlc
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BinhPhuocTV 1.png" tvg-name="183",BinhPhuocTV 1
-http://www.htvonline.com.vn/livetv/binh-phuoc-bptv1-33346E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=bptv1
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//vtv6_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
@@ -478,11 +478,11 @@ http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=c
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
-http://www.htvonline.com.vn/livetv/vtc6-3131376E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc6
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc9.png" tvg-name="38",VTC9
-http://www.htvonline.com.vn/livetv/vtc9-(lets-viet)-3131326E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc9
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\logo\vtc7-todaytv.png" tvg-name="36",VTC7
-http://www.htvonline.com.vn/livetv/vtc7--today-tv-3131316E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc7
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv1.png" tvg-name="45",SCTV1
 rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv1_2 live=1 swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn/LiveTV token=1b#K8!3zc65ends!
 #EXTINF:-1 $ExtFilter="Movies" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv9.png" tvg-name="53",SCTV9
@@ -540,7 +540,7 @@ http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=11
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
 http://live.accessasia.tv:1935/vnptg_channels/vctv4.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\Logo\VTC4.png" tvg-name="33",VTC4
-http://www.htvonline.com.vn/livetv/vtc4-3131366E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=vtc4
 #EXTINF:-1 $ExtFilter="Music" group-title="VTC" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 rtmp://live.kenhitv.vn/liveweb//itv_web_500k.stream
 #EXTINF:-1 $ExtFilter="Music" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv2.png" tvg-name="46",SCTV2
@@ -612,7 +612,7 @@ http://xemphimso.com/xem-tv/ttxvn.46.html?s=223
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\logo\Deutsche Welle.png" tvg-name="131",DW
 http://xemphimso.com/xem-tv/dw.177.html
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\FBNC.png" tvg-name="209",FBNC
-http://www.htvonline.com.vn/livetv/fbnc-34306E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=fbnchd
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&cat_id=30&id=415&Itemid=103
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
