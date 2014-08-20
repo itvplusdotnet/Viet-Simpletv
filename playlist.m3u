@@ -656,9 +656,9 @@ http://www.htvonline.com.vn/livetv/htvc-du-lich-33396E61.html
 #EXTINF:-1 $ExtFilter="Document" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV Russia.png" tvg-name="126",CCTV9 Documentary
 http://www.giniko.com/watch.php?id=161
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\Discovery World.png" tvg-name="126",Discovery World HD
-http://www.htvonline.com.vn/livetv/discovery-hd-3132336E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=discohd
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\Logo\National Geographic HD.png" tvg-name="125",National Geographic HD
-http://www.htvonline.com.vn/livetv/national-geographic-3132366E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=natgeohd
 #EXTINF:-1 $ExtFilter="Document" group-title="HDTV" tvg-logo="..\Channel\logo\Animal planet.png" tvg-name="143",Animal Planet HD
 rtmp://$OPT:rtmp-raw=rtmp://s01.webport.tv/promo/mtv live=1
 #EXTINF:-1 $ExtFilter="Document" group-title="MyTV" tvg-logo="..\Channel\Logo\HTVC Du lich.png" tvg-name="73",HTVC Du lịch
