@@ -421,15 +421,15 @@ http://torrent-tv.ru/torrent-online.php?translation=3256
 http://torrent-tv.ru/torrent-online.php?translation=2977
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="236",NTV+Tennis
 http://torrent-tv.ru/torrent-online.php?translation=1257
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 3
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",AV3
 http://go.arenavision.in/p/av3.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 4
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",AV4
 http://go.arenavision.in/p/av4.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 6
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",AV6
 http://go.arenavision.in/p/av6.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 8
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",AV8
 http://go.arenavision.in/p/av8.html
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",Arenavision 10
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Arenavision.png" tvg-name="197",AV10
 http://go.arenavision.in/p/av10.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Russia 2.png" tvg-name="206",Russia 2
 http://torrent-tv.ru/torrent-online.php?translation=6886
