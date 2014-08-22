@@ -27,6 +27,8 @@ http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=c
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=390
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
+#EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab12.png" tvg-name="25",VTVcab12
+rtmp://123.29.69.69/liverepeater//VTVCable12_HVGA_H264.sdp
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc1
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc2.png" tvg-name="31",VTC2
@@ -467,6 +469,12 @@ rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm1.stream
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm3.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 2
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm2.stream
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab6.png" tvg-name="19",VTVcab6
+rtmp://123.29.69.69/liverepeater//VTVCable06_HVGA_H264.sdp
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab5.png" tvg-name="18",VTVcab5
+rtmp://123.29.69.69/liverepeater//VTVCable05_HVGA_H264.sdp
+#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab7.png" tvg-name="20",VTVcab7
+rtmp://123.29.69.69/liverepeater//VTVCable07_HVGA_H264.sdp
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
 http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=356
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
@@ -633,6 +641,8 @@ http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=11
 http://torrent-tv.ru/torrent-online.php?translation=1425
 #EXTINF:-1 $ExtFilter="Fashion" group-title="Torrent TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://torrent-tv.ru/torrent-online.php?translation=1815
+#EXTINF:-1 $ExtFilter="Kids" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab8.png" tvg-name="21",VTVcab8
+rtmp://123.29.69.69/liverepeater//VTVCable08_HVGA_H264.sdp
 #EXTINF:-1 $ExtFilter="Kids" group-title="VTC" tvg-logo="..\Channel\logo\VTC11.png" tvg-name="40",VTC11
 rtmp://119.18.186.116/live//vtc111_h
 #EXTINF:-1 $ExtFilter="Kids" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv3.png" tvg-name="47",SCTV3
