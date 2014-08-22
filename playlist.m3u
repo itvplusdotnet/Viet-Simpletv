@@ -81,6 +81,8 @@ http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=htv7
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=htv9
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC hd.png" tvg-name="77",HTVC+ HD
 http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
+#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel HD.png" tvg-name="96",Channel M HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VITV.png" tvg-name="229",VITV
 http://xemphimso.com/xem-tv/vitv.155.html
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\TVM.png" tvg-name="222",TVM
@@ -489,6 +491,10 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv17_2 live=1 swfUrl=http://t
 http://www.htvonline.com.vn/livetv/htvc-phim-3131306E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HTV" tvg-logo="..\Channel\Logo\Thuan viet.png" tvg-name="76",Thuần Việt
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-3130396E61.html
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\ANIMAX.png" tvg-name="124",Animax
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1 $ExtFilter="Movies" group-title="WORLD TV" tvg-logo="..\Channel\Logo\WBTV.png" tvg-name="86",WBTV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\Thuan viet HD.png" tvg-name="76",Thuan Viet HD
 http://www.htvonline.com.vn/livetv/thua%CC%80n-vie%CC%A3t-hd-39326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\HTVC Phim HD.png" tvg-name="71",HTVC Phim HD
@@ -497,6 +503,8 @@ http://www.htvonline.com.vn/livetv/htvc-phim-hd-35326E61.html
 http://www.htvonline.com.vn/livetv/star-movie-hd-3132376E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
 http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
+#EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\AXN.png" tvg-name="81",AXN
 http://xemphimso.com/xem-tv/axnsd.134.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
@@ -547,6 +555,12 @@ http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=mtv
 http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Deluxemusic.png" tvg-name="111",Deluxe Music
 http://www.giniko.com/watch.php?id=220
+#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Asia
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=ebce2f5139c54eda8b111e5923af9c9e
+#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1 $ExtFilter="Music" group-title="HDTV" tvg-logo="..\Channel\Logo\MTV Live HD.png" tvg-name="111",MTV Live HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8d45473ff4ca44d79e1abc4516c2fee0
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\ITV .png" tvg-name="42",ITV
 http://xemphimso.com/xem-tv/itv---vtc13.17.html
 #EXTINF:-1 $ExtFilter="Music" group-title="MyTV" tvg-logo="..\Channel\logo\CHANNEL V.png" tvg-name="112",Channel V
