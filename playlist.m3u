@@ -404,13 +404,13 @@ http://torrent-tv.ru/torrent-online.php?translation=6308
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
 http://torrent-tv.ru/torrent-online.php?translation=383
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\EuroSport.png" tvg-name="107",Euro Sport
-http://torrent-tv.ru/torrent-online.php?translation=7381
+http://torrent-tv.ru/torrent-online.php?translation=380
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+ Futbol 2
 http://torrent-tv.ru/torrent-online.php?translation=1258
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 http://torrent-tv.ru/torrent-online.php?translation=7830
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-http://torrent-tv.ru/torrent-online.php?translation=3677
+http://torrent-tv.ru/torrent-online.php?translation=9294
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
 http://torrent-tv.ru/torrent-online.php?translation=7068
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
@@ -449,10 +449,6 @@ http://torrent-tv.ru/torrent-online.php?translation=9223
 http://torrent-tv.ru/torrent-online.php?translation=9224
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 http://torrent-tv.ru/torrent-online.php?translation=9225
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
-http://torrent-tv.ru/torrent-online.php?translation=9079
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
-http://torrent-tv.ru/torrent-online.php?translation=9251
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Sport 2.png" tvg-name="262",MTV Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=9237
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
