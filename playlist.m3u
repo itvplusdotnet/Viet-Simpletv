@@ -502,7 +502,7 @@ http://www.htvonline.com.vn/livetv/htvc-phim-hd-35326E61.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR MOVIES HD.png" tvg-name="83",Star Movies HD
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=starmhd
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\STAR WORLD HD.png" tvg-name="85",Star World HD
-http://www.htvonline.com.vn/livetv/star-world-hd-3132386E61.html
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=starwohd
 #EXTINF:-1 $ExtFilter="Movies" group-title="HDTV" tvg-logo="..\Channel\Logo\FX HD.png" tvg-name="135",FX HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=2e0e4b05aa6e428593f3b45b710045b7
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\AXN.png" tvg-name="81",AXN
