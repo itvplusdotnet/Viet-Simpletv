@@ -326,9 +326,9 @@ rtmp://m31.megafun.vn/hctv//vstv014
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTV" tvg-logo="..\Channel\Logo\vtv3.png" tvg-name="3",VTV3
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtv3
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab3.png" tvg-name="16",VTVcab3
-http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
+rtmp://123.29.69.69/liverepeater//VTVCable03_HVGA_H264.sdp
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab16.png" tvg-name="28",VTVcab16
-http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
+rtmp://123.29.69.69/liverepeater//VTVCable16_HVGA_H264.sdp
 #EXTINF:-1 $ExtFilter="Sports" group-title="VTC" tvg-logo="..\Channel\logo\vtc3.png" tvg-name="32",VTC3
 http://tv.vnn.vn/Kenh-truyen-hinh-token/vtc3
 #EXTINF:-1 $ExtFilter="Sports" group-title="SCTV" tvg-logo="..\Channel\Logo\sctv15.png" tvg-name="59",SCTV15
