@@ -296,7 +296,7 @@ http://hatinhtv.vn/liveevent.m3u8
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\logo\SCI.png" tvg-name="223",GiaLaiTV
 rtmp://222.255.169.132/live//livestream
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\THVL1.png" tvg-name="154",THVL1
-http://www.htvonline.com.vn/livetv/thvl1-vi%CC%83nh-long-36326E61.html
+rtmp://123.30.108.72/livepkgr//livestream1
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HoaBinhTV.png" tvg-name="163",HoaBinhTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/THHB
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BacNinhTV.png" tvg-name="164",BacNinhTV
