@@ -455,6 +455,12 @@ http://torrent-tv.ru/torrent-online.php?translation=9224
 http://torrent-tv.ru/torrent-online.php?translation=9225
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Sport 2.png" tvg-name="262",MTV Sport 2
 http://torrent-tv.ru/torrent-online.php?translation=9237
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
+http://torrent-tv.ru/torrent-online.php?translation=9299
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
+http://torrent-tv.ru/torrent-online.php?translation=9079
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
+http://torrent-tv.ru/torrent-online.php?translation=9251
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 4
 rtmp://thethao24stream1.clipbongda.vn:1935/thethao24/live/fm4.stream
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\logo\Live.png" tvg-name="197",Live 5
