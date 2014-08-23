@@ -1,4 +1,26 @@
 #EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Midnight.png" tvg-name="203",Midnight
+rtmp://edge.everyon.tv/ptv/phd766
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Love Story.png" tvg-name="203",But Go
+rtmp://edge.everyon.tv/ptv/phd772
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
+rtmp://edge.everyon.tv/ptv/phd63
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Girls TV.png" tvg-name="203",Girls TV
+rtmp://edge.everyon.tv/ptv/phd501
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Porn.png" tvg-name="203",Honey TV
+rtmp://edge.everyon.tv/ptv/pld928
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Pink TV.png" tvg-name="203",Pink TV
+rtmp://edge.everyon.tv/ptv/phd62
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hot Girl
+rtmp://edge.everyon.tv/ptv/phd59
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png",LiveTing
+rtmp://edge.everyon.tv/ptv/phd64
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\2 HOT.png",Okadai
+rtmp://edge.everyon.tv/ptv/phd61
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
+rtmp://edge.everyon.tv/ptv/phd499
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Playy.png" tvg-name="203",Play>19+
+rtmp://edge.everyon.tv/ptv//phd769
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 1 tv.png" tvg-name="203",Brazzers TV
 http://torrent-tv.ru/torrent-online.php?translation=481
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
@@ -13,3 +35,4 @@ http://torrent-tv.ru/torrent-online.php?translation=1209
 rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream2
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\XXL.png" tvg-name="203",XXL
 http://torrent-tv.ru/torrent-online.php?translation=8192
+
