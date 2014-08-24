@@ -412,7 +412,7 @@ http://torrent-tv.ru/torrent-online.php?translation=380
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="200",NTV+ Futbol 2
 http://torrent-tv.ru/torrent-online.php?translation=1258
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-http://torrent-tv.ru/torrent-online.php?translation=7830
+http://torrent-tv.ru/torrent-online.php?translation=9317
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
 http://torrent-tv.ru/torrent-online.php?translation=9294
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
