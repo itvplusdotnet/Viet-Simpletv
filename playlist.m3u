@@ -644,7 +644,9 @@ http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
 http://torrent-tv.ru/torrent-online.php?translation=3089
 #EXTINF:-1 $ExtFilter="Fashion" group-title="WORLD TV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
-http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+http://www.giniko.com/watch.php?id=15
+#EXTINF:-1 $ExtFilter="Fashion" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Fashion One.png" tvg-name="115",Fashion One
+http://www.giniko.com/watch.php?id=34
 #EXTINF:-1 $ExtFilter="Fashion" group-title="MyTV" tvg-logo="..\Channel\Logo\fashion tv.png" tvg-name="115",Fashion TV
 http://xemphimso.com/xem-tv/fashtion-tv.173.html
 #EXTINF:-1 $ExtFilter="Fashion" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Fashion.png" tvg-name="240",Yeah1 Fashion
