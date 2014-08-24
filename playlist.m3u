@@ -567,7 +567,7 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//sctv11_2 live=1 swfUrl=http://t
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=htvcplus
 #EXTINF:-1 $ExtFilter="Music" group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Ca nhac.png" tvg-name="70",HTVC Ca nhạc
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV
+#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Vietnam
 http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=mtv
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Music Box SK.png" tvg-name="111",Music Box
 http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
@@ -575,7 +575,7 @@ http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
 http://www.giniko.com/watch.php?id=220
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Asia
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=ebce2f5139c54eda8b111e5923af9c9e
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V
+#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHANNEL V.png" tvg-name="112",Channel V International
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=9e38a0084e6d45d080139a166c60a102
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\logo\musiq1.png" tvg-name="95",B4U Music
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=81ff107849124ff389814b0b8816b1ba
