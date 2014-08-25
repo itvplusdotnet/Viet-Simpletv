@@ -15,7 +15,7 @@ rtmp://edge.everyon.tv/ptv/phd62
 rtmp://edge.everyon.tv/ptv/phd59
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png",LiveTing
 rtmp://edge.everyon.tv/ptv/phd64
-#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\2 HOT.png",Okadai
+#EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\2 HOT.png" tvg-name="203",Okadai
 rtmp://edge.everyon.tv/ptv/phd61
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
 rtmp://edge.everyon.tv/ptv/phd499
