@@ -528,7 +528,7 @@ http://xemphimso.com/xem-tv/axnsd.134.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\cinemax.png" tvg-name="84",Cinemax
 http://xemphimso.com/xem-tv/cinemax.126.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\HBO.png" tvg-name="82",HBO
-http://xemphimso.com/xem-tv/hbosd.185.html
+http://123.29.73.99/ilive.m3u8?c=vstv036&token=-q3liG79ZNfa8GxrqzbctA&time=1402989866&q=high&type=tv&tk=a3ea1480b8a373a69f4ebb5fc37562b2
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\HTVC Phim.png" tvg-name="71",HTVC Phim
 http://xemphimso.com/xem-tv/htvc-phim.137.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\STAR MOVIES.png" tvg-name="83",Star Movies
