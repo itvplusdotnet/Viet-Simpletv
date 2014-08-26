@@ -24,7 +24,7 @@ rtmp://edge.everyon.tv/ptv//phd769
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 1 tv.png" tvg-name="203",Brazzers TV
 http://torrent-tv.ru/torrent-online.php?translation=481
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
-http://www.youtube.com/playlist?list=PLuKFdBBdNHSL1W5yBDGRRA6hk3C_BLfH7
+http://redirector.googlevideo.com/videoplayback?id=1f39c3490b0c8936&itag=18&source=picasa&cmo=sensitive_content%3Dyes&ip=0.0.0.0&ipbits=0&expire=1408155627&sparams=id,itag,source,ip,ipbits,expire&signature=CF7A8A65A0F19B8B92DFEE9E3807A02A7C72DD3D.386D95313F1A9B2444C7EA270CAA7FE04749992E&key=lh1&begin=0&cm2=0
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Nuart TV.png" tvg-name="203",NuArt
 http://torrent-tv.ru/torrent-online.php?translation=5617
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\RedLight Platinum.png" tvg-name="203",Platinum TV
