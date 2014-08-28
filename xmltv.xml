@@ -1524,4 +1524,46 @@
 <programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="262">
 <title lang="vi">Kênh thể thao Phần Lan</title>
 </programme>
+<channel id="263">
+<display-name lang="vi">VOV1</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="263">
+<title lang="vi">Hệ Thời sự-Chính trị-Tổng hợp - Đài tiếng nói Việt Nam </title>
+</programme>
+<channel id="264">
+<display-name lang="vi">VOV2</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="264">
+<title lang="vi">Hệ tin tức tổng hợp - Đài tiếng nói Việt Nam</title>
+</programme>
+<channel id="265">
+<display-name lang="vi">VOV3</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="265">
+<title lang="vi">Hệ Âm nhạc-Thông tin-Giải trí - Đài tiếng nói Việt Nam</title>
+</programme>
+<channel id="266">
+<display-name lang="vi">RFI Vietnam</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="266">
+<title lang="vi">Đài phát thanh quốc tế Pháp</title>
+</programme>
+<channel id="267">
+<display-name lang="vi">NHK Vietnam</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="267">
+<title lang="vi">Đài phat thanh quốc tế Nhật Bản</title>
+</programme>
+<channel id="268">
+<display-name lang="vi">VOV GT HN</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="268">
+<title lang="vi">Kênh phát thanh giao thông Hà Nội</title>
+</programme>
+<channel id="269">
+<display-name lang="vi">VOV GT TP.HCM</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="269">
+<title lang="vi">Kênh phát thanh giao thông  TP.Hồ Chí Minh</title>
+</programme>
 </tv>
