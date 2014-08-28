@@ -217,6 +217,8 @@ http://tv.vnn.vn/Kenh-truyen-hinh-token/ANTV
 http://tv.vnn.vn/Kenh-truyen-hinh-token/VOV%20hình
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vietnamnet.png" tvg-name="1",Vietnamnet
 http://www.htvonline.com.vn/livetv/vietnamnet-3133386E61.html
+#EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="http://youtv.vn/images/logo.png" tvg-name="98",You TV
+http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=youtv
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\NgheAnTV.png" tvg-name="152",NgheAnTV
 http://m24.megafun.vn/live.vs?c=vstv056&q=high&type=tv&token=dUzSJHTKLXuSQ-JElJSePQ&time=1404618028&io=LKQm4UrSeh3uHo07
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\HanoiTV 1.png" tvg-name="153",HaNoiTV 1
