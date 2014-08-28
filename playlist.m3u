@@ -85,6 +85,10 @@ http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=htv9
 http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-hd-34346E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\M Channel HD.png" tvg-name="96",Channel M HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
+#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\VTC HD3.png" tvg-name="80",VTC HD3
+http://117.103.224.75:1935/live/_definst_/VTCHD3/VTCHD3_960x540_1800kbps.stream/playlist.m3u8
+#EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\vtchd1.png" tvg-name="78",VTC HD1
+http://117.103.224.75:1935/live/_definst_/VTCHD1/VTCHD1_960x540_1800kbps.stream/playlist.m3u8
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\VITV.png" tvg-name="229",VITV
 http://xemphimso.com/xem-tv/vitv.155.html
 #EXTINF:-1 group-title="MyTV" tvg-logo="..\Channel\Logo\TVM.png" tvg-name="222",TVM
