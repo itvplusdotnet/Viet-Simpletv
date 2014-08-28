@@ -1566,4 +1566,10 @@
 <programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="269">
 <title lang="vi">Kênh phát thanh giao thông  TP.Hồ Chí Minh</title>
 </programme>
+<channel id="270">
+<display-name lang="vi">VOH</display-name>
+</channel>
+<programme start="20130825000000 +0700" stop="20150825000000 +0700" channel="270">
+<title lang="vi">Đài phát thanh tiếng nói  TP.Hồ Chí Minh</title>
+</programme>
 </tv>
