@@ -365,8 +365,8 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.fla
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/skksnf1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
 http://www.giniko.com/watch.php?id=132
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\beIN Sport.png" tvg-name="94",BeIN Sport
-rtmp://wzmatch.uforone.net:1935/live/_definst_/beinsports1
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=0ed1c715dc864ab3912d4015903a3d85
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sport
 http://149.255.39.122/aasd/8814/index.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
