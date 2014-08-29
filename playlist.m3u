@@ -206,7 +206,7 @@ http://bichthuvan.com:1935/airChannels/set_1/playist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\Life HD.png" tvg-name="248",Life World
 http://bichthuvan.com:1935/liveStream/lifeworld_1/playlist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\VietTV24.png" tvg-name="248",Viettv24
-http://bichthuvan.com:1935/liveStream/viettv24_1/playlist.m3u8
+http://83.170.111.147:1935/liveStream/viettv24_1/playlist.m3u8
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\QPVN.png" tvg-name="146",QPVN
 http://123.29.73.99/ilive.m3u8?c=vstv091&token=o1KUBrlXJ3dDfi7vkepPcw&time=1402668452&q=high
 #EXTINF:-1 group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\VETV.png" tvg-name="256",VETV
@@ -553,7 +553,7 @@ rtmp://115.146.123.95/liveedge/lifetv3.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Family.png" tvg-name="247",Yeah1 Family
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=418
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
-http://bichthuvan.com:1935/liveStream/hai_1/playlist.m3u8
+http://83.170.111.147:1935/liveStream/hai_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="TH ĐỊA PHƯƠNG" tvg-logo="..\Channel\Logo\BTV4.png" tvg-name="156",BTV4
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=419
 #EXTINF:-1 $ExtFilter="Music" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab17.png" tvg-name="17",VTVcab4
@@ -599,11 +599,11 @@ rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Music.png" tvg-name="241",Yeah1 Music
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=422
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vpop.png" tvg-name="248",VPop
-http://bichthuvan.com:1935/liveStream/vpoptv_1/playlist.m3u8
+http://83.170.111.147:1935/liveStream/vpoptv_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\VMusic.png" tvg-name="248",VMusic
-http://bichthuvan.com:1935/liveStream/mtv_1/playlist.m3u8
+http://83.170.111.147:1935/liveStream/mtv_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Dam TV.png" tvg-name="248",DamTV
-http://bichthuvan.com:1935/liveStream/DAMTV_1/playlist.m3u8
+http://83.170.111.147:1935/liveStream/DAMTV_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Rocks.png" tvg-name="111",MTV Rocks
 http://torrent-tv.ru/torrent-online.php?translation=1795
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Dance.png" tvg-name="111",MTV Dance
