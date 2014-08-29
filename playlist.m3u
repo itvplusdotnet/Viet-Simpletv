@@ -382,7 +382,7 @@ rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
 http://www.htvonline.com.vn/livetv/espn-hd-3132346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\ThethaoTV HD.png" tvg-name="16",ThethaoTV HD
-http://www.htvonline.com.vn/htv_monitor.php?p=livetvstream&code=thethaotv
+http://www.htvonline.com.vn/livetv/the-thao-tv-hd-3133336E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\bongdatv HD.png" tvg-name="28",BongdaTV HD
 http://www.htvonline.com.vn/livetv/bong-da-tv-hd-3133346E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\vtv6.png" tvg-name="6",VTV6 HD
