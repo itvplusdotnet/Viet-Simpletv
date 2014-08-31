@@ -455,8 +455,6 @@ http://torrent-tv.ru/torrent-online.php?translation=9223
 http://torrent-tv.ru/torrent-online.php?translation=9224
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 http://torrent-tv.ru/torrent-online.php?translation=9225
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\MTV Sport 2.png" tvg-name="262",MTV Sport 2
-http://torrent-tv.ru/torrent-online.php?translation=9237
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 http://torrent-tv.ru/torrent-online.php?translation=9299
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
@@ -465,6 +463,8 @@ http://torrent-tv.ru/torrent-online.php?translation=9079
 http://torrent-tv.ru/torrent-online.php?translation=9251
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+Sport Hit
 http://torrent-tv.ru/torrent-online.php?translation=7017
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CANAL+ SPORTS.png" tvg-name="262",Canal+ Liga
+http://torrent-tv.ru/torrent-online.php?translation=9387
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 2
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png",K+ 4
