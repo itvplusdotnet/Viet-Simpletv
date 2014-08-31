@@ -620,7 +620,7 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live//aljazeera_eng_hi
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\ARIRANG.png" tvg-name="128",Arirang
 http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\SKY NEWS.png" tvg-name="132",Sky News
-http://hd2.lsops.net/live/skynewsi_en_372/playlist.m3u8
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=31b003ab7e7749a798fe00424e3dd9ff
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\Bloomberg TV.png" tvg-name="134",Bloomberg
 rtmpt://cp116697.live.edgefcs.net:1935/live/BnazlkNDpCIcD-QkfyZCQKlRiiFnVa5I_640_360_440@18679
 #EXTINF:-1 $ExtFilter="News" group-title="MyTV" tvg-logo="..\Channel\Logo\Asia news.png" tvg-name="228",Asia News
