@@ -73,6 +73,8 @@ http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wif
 http://www.giniko.com/watch.php?id=190
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\iTV1.png" tvg-name="139",ITV 1
 http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/chunklist_b1100000.m3u8
+#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
+rtmp://$OPT:rtmp-raw=rtmpt://89.232.125.187:1935/live/tv1 swfUrl=http://letai.ru/letai/player/letai.tv/player.swf live=1
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV7 HD.png" tvg-name="67",HTV7 HD
@@ -363,10 +365,6 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.fla
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/skksnf1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\NTV Spor.png" tvg-name="69",NTV Spor
-http://www.giniko.com/watch.php?id=132
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=0ed1c715dc864ab3912d4015903a3d85
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sport
 http://149.255.39.122/aasd/8814/index.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
@@ -597,8 +595,10 @@ http://torrent-tv.ru/torrent-online.php?translation=1140
 http://torrent-tv.ru/torrent-online.php?translation=1147
 #EXTINF:-1 $ExtFilter="Music" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Europa Plus TV.png" tvg-name="114",Europa Plus TV
 http://torrent-tv.ru/torrent-online.php?translation=409
+#EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CCTV News.png" tvg-name="230",CCTV News
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=0ed1c715dc864ab3912d4015903a3d85
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Russia Today.png" tvg-name="129",Russia Today
-rtmp://62.213.85.137/en-stream/primetime
+http://giniko.com/watch.php?id=24
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://www.giniko.com/watch.php?id=216
 #EXTINF:-1 $ExtFilter="News" group-title="WORLD TV" tvg-logo="..\Channel\logo\CNN International.png" tvg-name="133",CNN
