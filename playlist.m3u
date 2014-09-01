@@ -343,8 +343,6 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk2 pageUrl=http://www.flas
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk3 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk4 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\CHELSEATV.png" tvg-name="109",Chelsea TV
-rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
 http://www.wezatv.com/dooball/assp1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 2
