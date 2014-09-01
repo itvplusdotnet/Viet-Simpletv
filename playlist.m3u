@@ -67,8 +67,6 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/live//htv9_2 live=1 swfUrl=http://tv2
 http://www.htvonline.com.vn/livetv/htvc-gia-dinh-34356E61.html
 #EXTINF:-1 group-title="HTV" tvg-logo="..\Channel\Logo\HTVC Phu nu.png" tvg-name="75",HTVC Phụ nữ
 http://www.htvonline.com.vn/livetv/htvc-phu-nu-35356E61.html
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
-http://85.132.44.99:1935/turktv/perviy.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 1.png" tvg-name="139",BBC 1
 http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:bbcone_desk_wifi.smil/chunklist_b1100000.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 2.png" tvg-name="140",BBC 2
