@@ -559,8 +559,6 @@ http://www.htvonline.com.vn/livetv/htvc-plus-htvc+-35316E61.html
 http://www.htvonline.com.vn/livetv/htvc-ca-nhac-34376E61.html
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Vietnam
 http://www.htvonline.com.vn/livetv/mtv-31346E61.html
-#EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Music Box SK.png" tvg-name="111",Music Box
-http://hls.cn.ru/streaming/musboxtv/tvrec/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Deluxemusic.png" tvg-name="111",Deluxe Music
 http://www.giniko.com/watch.php?id=220
 #EXTINF:-1 $ExtFilter="Music" group-title="WORLD TV" tvg-logo="..\Channel\Logo\MTV .png" tvg-name="111",MTV Asia
