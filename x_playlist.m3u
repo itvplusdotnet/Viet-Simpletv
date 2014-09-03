@@ -1,26 +1,26 @@
 #EXTM3U $BorpasFileFormat="1"
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Midnight.png" tvg-name="203",Midnight
-rtmp://edge.everyon.tv/ptv/phd766
+rtmp://lm07.everyon.tv:1935/ptv7/phd766
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Love Story.png" tvg-name="203",But Go
-rtmp://edge.everyon.tv/ptv/phd772
+rtmp://lm07.everyon.tv:1935/ptv7/phd772
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Delight Empire HD Movie.png" tvg-name="203",Delight Empire
-rtmp://edge.everyon.tv/ptv/phd63
+rtmp://lm07.everyon.tv:1935/ptv7/phd63
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Girls TV.png" tvg-name="203",Girls TV
-rtmp://edge.everyon.tv/ptv/phd501
+rtmp://lm07.everyon.tv:1935/ptv7/phd501
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Porn.png" tvg-name="203",Honey TV
-rtmp://edge.everyon.tv/ptv/pld928
+rtmp://lm07.everyon.tv:1935/ptv7/phd928
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Pink TV.png" tvg-name="203",Pink TV
-rtmp://edge.everyon.tv/ptv/phd62
+rtmp://lm07.everyon.tv:1935/ptv7/phd62
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\J-Hot Girl TV.png" tvg-name="203",J Hot Girl
-rtmp://edge.everyon.tv/ptv/phd59
+rtmp://lm07.everyon.tv:1935/ptv7/phd59
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\LIVETing.png" tvg-name="203",LiveTing
-rtmp://edge.everyon.tv/ptv/phd64
+rtmp://lm07.everyon.tv:1935/ptv7/phd64
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\2 HOT.png" tvg-name="203",Okadai
-rtmp://edge.everyon.tv/ptv/phd61
+rtmp://lm07.everyon.tv:1935/ptv7/phd61
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\Playboy.png" tvg-name="203",Playboy
-rtmp://edge.everyon.tv/ptv/phd499
+rtmp://lm07.everyon.tv:1935/ptv7/phd499
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\Playy.png" tvg-name="203",Play>19+
-rtmp://edge.everyon.tv/ptv//phd769
+rtmp://lm07.everyon.tv:1935/ptv7/phd769
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\logo\SEX 1 tv.png" tvg-name="203",Brazzers TV
 http://torrent-tv.ru/torrent-online.php?translation=481
 #EXTINF:-1 $ExtFilter="Movies" group-title="TV 18+" tvg-logo="..\Channel\Logo\JAV HD.png" tvg-name="203",JAV HD
