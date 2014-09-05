@@ -334,13 +334,13 @@ rtmp://$OPT:rtmp-raw=rtmpe://112.197.2.154/glive//sctvhdthethao_2 live=1 swfUrl=
 #EXTINF:-1 $ExtFilter="Sports" group-title="HTV" tvg-logo="..\Channel\logo\HTVThethao.png" tvg-name="69",HTVC Thể Thao
 http://www.htvonline.com.vn/livetv/htv-the-thao-34386E61.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 1.png" tvg-name="145",Sky Sports 1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+http://acabsw.doiptv.com/sky_sport_1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky sports 2.png" tvg-name="145",Sky Sports 2
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+http://acabsw.doiptv.com/sky_sport_2/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 3.png" tvg-name="145",Sky Sports 3
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk3 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+http://acabsw.doiptv.com/sky_sport_3/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\sky sports 4.png" tvg-name="145",Sky Sports 4
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/sskk4 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+http://acabsw.doiptv.com/sky_sport_4/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 1
 http://www.wezatv.com/dooball/assp1.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\Astro Super Sport.png" tvg-name="255",Astro Super Sport 2
@@ -360,11 +360,13 @@ rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.fla
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk2 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/skksnf1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
+http://acabsw.doiptv.com/sky_sport_f1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport.png" tvg-name="107",Euro Sport
 http://149.255.39.122/aasd/8814/index.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\logo\EuroSport 2.png" tvg-name="107",Euro Sport 2
 http://149.255.39.122/aasd/8815/index.m3u8
+#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sky Sports 5.png" tvg-name="145",Sky Sports 5
+http://acabsw.doiptv.com/sky_sport_5/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\Logo\TRUE SPORT HD.png" tvg-name="93",TrueTennis HD
 rtmp://m22.megafun.vn/hctv/vstv018
 #EXTINF:-1 $ExtFilter="Sports" group-title="HDTV" tvg-logo="..\Channel\logo\Fox Sport+ HD.png" tvg-name="89",Fox Sport+ HD
