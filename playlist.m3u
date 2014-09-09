@@ -578,7 +578,7 @@ http://xemphimso.com/xem-tv/mtv.65.html
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\NCT.png" tvg-name="150",NCT
 rtmp://123.30.134.108/live/nctlive
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Viet MTV.png" tvg-name="70",Viet MTV
-rtmpe://64.62.143.5/live/do%20not%20steal%20my-Stream1
+http://64.62.143.5:1935/live/donotstealmy-Stream1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Music.png" tvg-name="241",Yeah1 Music
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=422
 #EXTINF:-1 $ExtFilter="Music" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\vpop.png" tvg-name="248",VPop
