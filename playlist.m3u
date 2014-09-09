@@ -75,7 +75,7 @@ http://www.giniko.com/watch.php?id=190
 http://tvcatchup-live.hls.adaptive.level3.net/tvcatchup-201/smil:itvone_desk_wifi.smil/chunklist_b1100000.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\Channel 1.png" tvg-name="225",Channel 1
 rtmp://$OPT:rtmp-raw=rtmpt://89.232.125.187:1935/live/tv1 swfUrl=http://letai.ru/letai/player/letai.tv/player.swf live=1
-#EXTINF:-1 group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 3.png" tvg-name="141",BBC 3
+#EXTINF:-1 $ExtFilter="Kids" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BBC 3.png" tvg-name="141",BBC 3
 http://giniko.com/watch.php?id=191
 #EXTINF:-1 group-title="HDTV" tvg-logo="..\Channel\Logo\HTV2 HD.png" tvg-name="64",HTV2 HD
 http://www.htvonline.com.vn/livetv/htv2-31336E61.html
