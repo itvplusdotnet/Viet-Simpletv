@@ -353,8 +353,6 @@ http://www.wezatv.com/dooball/assp4.php
 http://www.wezatv.com/dooball/fox.php
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\STAR SPORTS.png" tvg-name="88",Star Sports
 http://www.wezatv.com/dooball/star.php
-#EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\Sport 1.png" tvg-name="191",Sport 1
-rtmp://$OPT:rtmp-raw=rtmp://188.138.9.234:1955/live/mnocotvSport1.stream swfUrl=http://iptvmnogotv.eu/pro_tivix/player.swf pageUrl=http://www.moskvatv.com/rad/discovery-1.html
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 1.png" tvg-name="198",BT Sport 1
 rtmp://$OPT:rtmp-raw=rtmp://31.220.0.104:1935/live/btssk1 pageUrl=http://www.flashtv.co/hpg_disco token=%ZZri(nKa@#Z
 #EXTINF:-1 $ExtFilter="Sports" group-title="WORLD TV" tvg-logo="..\Channel\Logo\BT Sport 2.png" tvg-name="212",BT Sport 2
