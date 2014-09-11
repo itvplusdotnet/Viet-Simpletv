@@ -21,10 +21,6 @@ rtmp://222.255.167.149/live/livestream
 rtmp://113.161.4.102/live//vtvphuyen.tv
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\logo\Yeah1 Special.png" tvg-name="29",VTVcab17
 http://www.htvonline.com.vn/livetv/yeah1-3133396E61.html
-#EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab14.png" tvg-name="26",VTVcab14
-http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&cat_id=18&id=372&Itemid=103
-#EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab15.png" tvg-name="27",VTVcab15
-http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=390
 #EXTINF:-1 group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab10.png" tvg-name="23",VTVcab10
 http://live.accessasia.tv:1935/vnptg_channels/vctv10.480p/playlist.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="..\Channel\logo\vtc1.png" tvg-name="30",VTC1
@@ -471,8 +467,6 @@ rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/mybongda live=1 swfU
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/keonhacai.com live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 3
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/broadcaster31 live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
-#EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\Logo\vtvcab1.png" tvg-name="14",VTVcab1
-http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&Itemid=103&cat_id=22&id=356
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTVcab" tvg-logo="..\Channel\logo\vtvcab2.png" tvg-name="15",VTVcab2
 http://live.accessasia.tv:1935/vnptg_channels/vctv2.480p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="Movies" group-title="VTC" tvg-logo="..\Channel\Logo\vtc6.png" tvg-name="35",VTC6
@@ -533,10 +527,6 @@ http://xemphimso.com/xem-tv/vtc6.13.html
 http://xemphimso.com/xem-tv/todaytv-vtc7.1.html
 #EXTINF:-1 $ExtFilter="Movies" group-title="MyTV" tvg-logo="..\Channel\Logo\vtc9.png" tvg-name="38",VTC9
 http://xemphimso.com/xem-tv/vtc9.14.html
-#EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\LIFETV.png" tvg-name="151",LifeTV
-rtmp://$OPT:rtmp-raw=rtmp://video.lifetv.vn/live/ playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ live=1
-#EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\911.png" tvg-name="244",911
-rtmp://115.146.123.95/liveedge/lifetv3.stream
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\Yeah1 Family.png" tvg-name="247",Yeah1 Family
 http://www.socialtv.vn/index.php?option=com_vtv&view=play&type=channel&Itemid=119&id=418
 #EXTINF:-1 $ExtFilter="Movies" group-title="OTHER CHANNEL" tvg-logo="..\Channel\logo\4 Fun TV.png" tvg-name="248",Hài 247
@@ -630,7 +620,7 @@ http://xemphimso.com/xem-tv/dw.177.html
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\FBNC.png" tvg-name="209",FBNC
 http://www.htvonline.com.vn/livetv/fbnc-34306E61.html
 #EXTINF:-1 $ExtFilter="News" group-title="OTHER CHANNEL" tvg-logo="..\Channel\Logo\TTXVN.png" tvg-name="149",TTXVN
-http://www.vtvplus.vn/index.php?option=com_vtv&task=play.getStreamChannel&type=channel&cat_id=30&id=415&Itemid=103
+rtmp://live.vnanet.vn/Live//DRC
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\BBC World.png" tvg-name="230",BBC World
 http://torrent-tv.ru/torrent-online.php?translation=2245
 #EXTINF:-1 $ExtFilter="News" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CNN International.png" tvg-name="133",CNN
