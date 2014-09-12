@@ -449,10 +449,6 @@ http://torrent-tv.ru/torrent-online.php?translation=9224
 http://torrent-tv.ru/torrent-online.php?translation=9225
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
 http://torrent-tv.ru/torrent-online.php?translation=9299
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 1.png" tvg-name="188",Futbol 1 HD
-http://torrent-tv.ru/torrent-online.php?translation=9079
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Futbol 2.png" tvg-name="189",Futbol 2 HD
-http://torrent-tv.ru/torrent-online.php?translation=9251
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+Sport Hit
 http://torrent-tv.ru/torrent-online.php?translation=7017
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CANAL+ SPORTS.png" tvg-name="262",Canal+ Liga
