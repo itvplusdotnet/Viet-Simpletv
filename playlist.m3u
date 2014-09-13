@@ -439,12 +439,6 @@ http://torrent-tv.ru/torrent-online.php?translation=9221
 http://torrent-tv.ru/torrent-online.php?translation=9219
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\Fox Sports 2.png" tvg-name="261",Fox Sports 2
 http://torrent-tv.ru/torrent-online.php?translation=9218
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="258",SK 1
-http://torrent-tv.ru/torrent-online.php?translation=9222
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="259",SK 2
-http://torrent-tv.ru/torrent-online.php?translation=9223
-#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\logo\SK.png" tvg-name="260",SK 3
-http://torrent-tv.ru/torrent-online.php?translation=9224
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\viasat sport baltic.png" tvg-name="193",Viasat Sport Baltic
 http://torrent-tv.ru/torrent-online.php?translation=9225
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\Sky Sports F1.png" tvg-name="92",Sky Sports F1
@@ -453,6 +447,8 @@ http://torrent-tv.ru/torrent-online.php?translation=9299
 http://torrent-tv.ru/torrent-online.php?translation=7017
 #EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\CANAL+ SPORTS.png" tvg-name="262",Canal+ Liga
 http://torrent-tv.ru/torrent-online.php?translation=9387
+#EXTINF:-1 $ExtFilter="Sports" group-title="Torrent TV" tvg-logo="..\Channel\Logo\NTV+.png" tvg-name="191",NTV+Sport Online
+http://torrent-tv.ru/torrent-online.php?translation=1372
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 2
 rtmp://$OPT:rtmp-raw=rtmp://live.csmtalk.vcdn.vn/livetv?ak=/xemtt live=1 swfUrl=http://tv.csmtalk.vcdn.vn/talktv/resource/third-party/jwplayer/jwplayer.flash.swf?06172014 pageUrl=http://tv.csmtalk.vn/
 #EXTINF:-1 $ExtFilter="Sports" group-title="LIVE SPORTS" tvg-logo="..\Channel\Logo\K+1.png" tvg-name="13",K+ 4
